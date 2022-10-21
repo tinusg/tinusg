@@ -4,6 +4,6 @@ My name is Tinus Guichelaar. I'm a developer who has a knack for marketing and d
 
 You can find me here:
 
-- Website: https://tinus.guichelaar.info
+- Website: https://www.tinusguichelaar.nl
 - Twitter: https://twitter.com/tinusg
 - LinkedIN: https://www.linkedin.com/in/tinusg/
