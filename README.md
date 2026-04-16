@@ -2,6 +2,8 @@ Hi Github,
 
 My name is Tinus Guichelaar. I'm a developer who has a knack for marketing and design. 
 
+I created hundreds of websites in the energy, automotive, transportation and agricultural sectors.
+
 You can find me here:
 
 - Website: https://www.tinusguichelaar.nl
