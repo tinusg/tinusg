@@ -7,5 +7,5 @@ I created hundreds of websites in the energy, automotive, transportation and agr
 You can find me here:
 
 - Website: [https://www.tinusguichelaar.nl](https://www.tinusguichelaar.nl)
-- Mastodon: [https://twitter.com/tinusg](https://phpc.social/@tinus)
+- Mastodon: [https://phpc.social/@tinus](https://phpc.social/@tinus)
 - LinkedIN: [https://www.linkedin.com/in/tinusg/](https://www.linkedin.com/in/tinusg/)
